@@ -1,0 +1,137 @@
+@media (max-width: 425px){ 
+    .conteudo-score {
+        display: flex;
+        justify-content: space-between;
+        border: 3px solid #606e85;
+        border-radius: 12px;
+        margin-top: 2rem;
+        padding: 1% 2%;
+        width: 90%;
+    }
+    .buttons button {
+        margin: 0rem 0rem 4rem 0rem;
+    }
+
+    .tesoura {
+        background-image: url(../images/icon-scissors.svg);
+        background-color: white;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 50%;
+        border: 24px solid #ec9e0e;
+        border-radius: 50%;
+        cursor: pointer;
+        width: 10rem;
+        height: 10rem;
+    }
+
+    .papel {
+        background-image: url(../images/icon-paper.svg);
+        background-color: white;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 50%;
+        border: 24px solid #4865f4;
+        border-radius: 50%;
+        cursor: pointer;
+        width: 10rem;
+        height: 10rem;
+    }
+    
+    .pedra {
+        background-image: url(../images/icon-rock.svg);
+        background-color: white;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 50%;
+        border: 24px solid #dc2e4e;
+        border-radius: 50%;
+        cursor: pointer;
+        width: 10rem;
+        height: 10rem;
+    }
+    
+    .lagarto { 
+        background-image: url(../images/icon-lizard.svg);
+        background-color: white;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 50%;
+        border: 24px solid #a600ac;
+        border-radius: 50%;
+        cursor: pointer;
+        width: 10rem;
+        height: 10rem;
+    }
+    
+    .spoke {
+        background-image: url(../images/icon-spock.svg);
+        background-color: white;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 50%;
+        border: 24px solid #00a2ff;
+        border-radius: 50%;
+        cursor: pointer;
+        width: 10rem;
+        height: 10rem;
+    }
+
+    .computer h1, .jogador h1{
+        font-size: 1rem;
+    }
+
+    .resposta {
+        width: 20rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 39rem;
+        height: 0;
+    }
+
+    .btn-pulse {
+        border-radius: 50%;
+        border: none;
+        width: 14rem;
+        height: 14rem;
+        background-color: rgba(0, 0, 0, 0.5);
+        animation: pulse 1.5s ease-out infinite;
+    }
+    
+    @keyframes pulse { 
+        0% {
+            transform: scale(0.4);
+        }
+    
+        50%{
+            transform: scale(0.7);
+            opacity: 0.3;
+        
+        }
+    
+        100% {
+            transform: scale(0.4);
+            opacity: 0.5;
+        }
+    } 
+
+    .game2 {
+        justify-content: space-around;
+    }
+
+    .rules-content {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        background-color: white;
+        padding: 1rem;
+        border-radius: 1rem;
+        border: none;
+    }
+
+}
+
+
+
