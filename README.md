@@ -11,7 +11,7 @@ Olá, Meu nome é Eduardo e esse é o projeto de um web site de um jogo o Rock, 
    <img src="img3.png">
  
    <h1>Link do site:</h1>
-   <p>https://eduardofranco572.github.io/My-Todo-List/</p>
+   <p>https://eduardofranco572.github.io/Rock-Paper-Scissors-Lizard-Spock/</p>
   <br>
   <br>
 </div>
