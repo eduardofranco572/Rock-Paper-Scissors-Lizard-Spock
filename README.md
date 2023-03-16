@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors-Lizard-Spock
 O projeto é um website 
 
-Olá, Meu nome é Eduardo e esse é o projeto de um website de um jogo o Rock, Paper, Scissors, Lizard, Spock. No qual é um jogo igual o famoso jogo Pedra Papel e Tesoura, mais esse foi criado no seriado de tv Big Bang a Teroria. O jogo foi programado em Jquery aonde o player faz sua escolha e compete contra o computador, com isso pode ganhar ou perder pontos.
+Olá, Meu nome é Eduardo e esse é o projeto de um website de um jogo o Rock, Paper, Scissors, Lizard, Spock. No qual é um jogo igual o famoso jogo Pedra Papel e Tesoura, mais esse foi criado no seriado de tv Big Bang a Teroria. O jogo foi programado em Jquery aonde o player faz sua escolha e compete contra o computador, com isso pode ganhar ou perder pontos. 
 <br>
 <br>
  <div align="center">
